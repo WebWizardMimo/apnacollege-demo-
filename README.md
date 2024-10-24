@@ -1,3 +1,3 @@
 # apnacollege-demo-
 this is my first git repository 
-Author- Soham Santra
+Author- Soham Santra (aka Mimo)
